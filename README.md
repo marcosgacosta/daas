@@ -1,4 +1,4 @@
-# Diagrams as a Code (DaaS)
+# Diagrams as Code (DaC?)
 Since everything is "as a code" these days, this is an attempt to make Diagrams as a Code. Of course, the potential it's not in writing directly but with the integration with other products, for example, if you train an LLM to code using this, or maybe you could read a terraform state or config file and generate a diagram from that. 
 
 If you really want to see some awesome diagrams, check the repo [Diagrams as a Code](https://github.com/HariSekhon/Diagrams-as-Code) from HariSekhon.
