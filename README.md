@@ -36,4 +36,6 @@ with Diagram("Resume ChatBot", show=False):
 
 And get the following diagram:
 
+![MomoTech.us diagram](images/resume_chatbot.png)
+
 
