@@ -34,7 +34,7 @@ with Diagram("Resume ChatBot", show=False):
         dns >> cf >> s3
 ```
 
-And get the following diagram:
+And you get the following diagram:
 
 ![MomoTech.us diagram](images/resume_chatbot.png)
 
